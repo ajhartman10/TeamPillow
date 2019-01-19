@@ -14,7 +14,7 @@ The following is guide to the file structure in this repository:
    * *Source Manuals* - FARS/GES Analytical User Manuals to supplement source data files
    * *Code* - python scripts written in Jupyter Notebook used in exploration, cleaning, and analysis
    * *Images* - PNG files of data visualizations resulting from our analysis
-   * *Story-Telling* - Project Narrative and Conclusion docs
+   * *Story-Telling* - Project Proposal, Narrative, Conclusion write-ups, and Slide presentation
 
 
 ### Team Pillow*
