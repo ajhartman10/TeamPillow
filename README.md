@@ -11,10 +11,10 @@ The following is guide to the file structure in this repository:
  * **TeamPillow** - ROOT, project README and submitted project proposal
  
    * *Source Files* - FARS/GES auxilary source data files (unedited by team)
-   * *Source Manual* - FARS/GES Analytical User Manuals to supplement source data files
+   * *Source Manuals* - FARS/GES Analytical User Manuals to supplement source data files
    * *Code* - python scripts written in Jupyter Notebook used in exploration, cleaning, and analysis
    * *Images* - PNG files of data visualizations resulting from our analysis
-   * *Story* - Project Narrative and Conclusion docs
+   * *Story-Telling* - Project Narrative and Conclusion docs
 
 
 ### Team Pillow*
