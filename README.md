@@ -32,11 +32,8 @@
 
 ## Code
 	Code for this project has been developed using Jupyter notebook. Code files could be found under master/Code or <branch_name>/Code folder.
-
-	                                                                                                                        
-	
 	<https://developers.google.com/maps/documentation/geocoding/get-api-key>
-### Source Files
+
 ## Source Files
 	Source files can be found within 'master/SourceFiles' or 'branch_name/SourceFiles' folder.
 	
